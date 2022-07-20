@@ -1,0 +1,13 @@
+C:\Users\daoch\source\repos\CafeApp\CafeApp\bin\Release\CafeApp.exe.config
+C:\Users\daoch\source\repos\CafeApp\CafeApp\bin\Release\CafeApp.exe
+C:\Users\daoch\source\repos\CafeApp\CafeApp\bin\Release\CafeApp.pdb
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.csproj.AssemblyReference.cache
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.Confirmation.resources
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.Delivery.resources
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.Form1.resources
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.Menu.resources
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.Properties.Resources.resources
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.csproj.GenerateResource.cache
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.csproj.CoreCompileInputs.cache
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.exe
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Release\CafeApp.pdb

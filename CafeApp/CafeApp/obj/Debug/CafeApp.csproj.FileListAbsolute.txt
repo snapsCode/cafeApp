@@ -1,0 +1,13 @@
+C:\Users\daoch\source\repos\CafeApp\CafeApp\bin\Debug\CafeApp.exe.config
+C:\Users\daoch\source\repos\CafeApp\CafeApp\bin\Debug\CafeApp.exe
+C:\Users\daoch\source\repos\CafeApp\CafeApp\bin\Debug\CafeApp.pdb
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.csproj.AssemblyReference.cache
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.Properties.Resources.resources
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.csproj.GenerateResource.cache
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.csproj.CoreCompileInputs.cache
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.exe
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.pdb
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.Menu.resources
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.Form1.resources
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.Delivery.resources
+C:\Users\daoch\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.Confirmation.resources
